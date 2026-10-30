@@ -1,59 +1,75 @@
 # Privacy Policy — Expense Tracker
 
-**Effective date:** October 21, 2026
+**Effective date: October 30, 2026**
 
 ## 1. Introduction
 
 This Privacy Policy explains how Expense Tracker, developed by Lotfi BOUCHERIT, handles information when you use the mobile application.
 
-Expense Tracker is designed to let you manage your personal expenses on your device. Based on the application's intended configuration, expense information is stored locally and is not transmitted to the developer or a remote server.
+The app lets you record expenses and receipts on your device. It also offers optional Google Drive backup and restore. This policy describes both local storage and those optional features.
 
-## 2. Information We Handle
+## 2. Information the App Handles
 
-When you use Expense Tracker, you may enter information such as expense descriptions, amounts, categories, dates, and notes.
+You may enter or create information such as:
 
-This information is used to provide the application's expense-tracking functionality. It is stored locally on your device.
+- Expense amounts, dates, and descriptions
+- Receipt photos and additional receipt pages
+- Whether an expense is marked as submitted or reimbursed
+- Your name, company name, reimbursement email address, preferred currency, and app language
 
-The developer does not intentionally collect or receive this information through the application.
+This information is used to provide the app’s expense tracking, receipt viewing, backup, restore, and reimbursement PDF features.
 
-## 3. Data Collection and Sharing
+## 3. Storage and Sharing
 
-Expense Tracker is intended to operate without user accounts, remote servers, advertising services, or analytics services.
+### Local storage
 
-Based on this configuration:
+Expense records, receipt images, and your settings are stored in the app’s private storage on your device. The developer does not operate a server that receives your expense records.
 
-- The developer does not collect expense records through the application.
-- Expense records are not sold or shared by the developer with third parties.
-- The application does not intentionally transmit expense records to external servers.
+### Optional Google Drive backup
 
-These statements apply only while the application operates as described and does not include third-party components or features that transmit data.
+You can choose to connect a Google account for backup and restore. When you do, the app can store your expense records, receipt images, reimbursement status, and general settings in Google Drive’s private app data area. These files do not appear among your ordinary Drive files.
 
-## 4. Data Storage, Security, and Retention
+The app can back up data automatically and when you choose **Back up now**. A successful new backup replaces the app’s previous backup. Google handles sign-in and authorization; the app does not receive your Google password. The connected account’s email address may be stored on your device so the app can display which account is connected. That email address is not included in the backup archive.
 
-Expense information is stored locally on the device. Its security depends in part on the security of the device and its operating system.
+Disconnecting stops future backups and restores on that device. It does not delete an existing backup from Google Drive. The app does not currently provide an in-app control to delete a Drive backup. Contact the developer below with questions about a backup deletion request.
 
-The developer does not maintain a remote copy of your expense records.
+Google’s handling of information is subject to [Google’s Privacy Policy](https://policies.google.com/privacy).
 
-Your data remains on your device until you delete it through an available application feature, clear the application's storage, or uninstall the application. Uninstalling the application may permanently remove locally stored information. Exported files or copies made outside the application may remain elsewhere on your device or in other services.
+### Android backup and device transfer
 
-Please make any necessary backups before clearing application data or uninstalling the application.
+Android’s system backup or device transfer may also copy app data, depending on your device, Google account, and system settings. This is separate from the app’s optional Google Drive backup and is handled by Android and Google.
 
-## 5. Permissions and Device Information
+### Email and PDF sharing
 
-The application should request only permissions necessary for its functionality. If future versions request additional permissions or introduce features that access or transmit personal information, this policy will be updated as appropriate.
+If you choose the PDF and email feature, the app creates a PDF and opens an email app on your device with the PDF attached. The app does not send the email. You review and send it through that email app. The email provider and recipient handle the message under their own policies.
 
-## 6. Children's Privacy
+The app does not include advertising or analytics services.
 
-Expense Tracker is a general-purpose expense-management application and is not specifically designed to collect personal information from children. The developer does not knowingly collect personal information from children through the application.
+## 4. Retention and Deletion
 
-## 7. Changes to This Privacy Policy
+Local information remains on your device until you delete it using an available app feature, clear the app’s storage, or uninstall the app. Uninstalling may remove local information, but copies held by Android system backup or Google Drive may remain.
 
-This Privacy Policy may be updated if the application's functionality or data practices change. The latest version will be published at this URL, with its effective date updated accordingly.
+Drive backups remain after you disconnect. A later successful backup replaces the previous app backup. Copies exported or shared outside the app may remain in other locations or services.
 
-## 8. Contact
+## 5. Security
+
+The app stores local information in its private app storage. Google Drive access requires authorization, and data is transferred using Google’s services. The security of local data also depends on your device and operating system. No storage or transmission method can be guaranteed completely secure.
+
+## 6. Permissions and Device Information
+
+The app uses an internet connection for Google Drive features. It may use the camera or image selection features when you choose to add a receipt. Receipt images are stored with your expense records and may be included in a Google Drive backup if you connect Drive.
+
+## 7. Children’s Privacy
+
+Expense Tracker is a general-purpose expense-management app and is not specifically designed to collect personal information from children. The developer does not knowingly collect children’s personal information through the app.
+
+## 8. Changes to This Privacy Policy
+
+This policy may be updated if the app’s features or data practices change. The latest version will be published at this URL, with its effective date updated accordingly.
+
+## 9. Contact
 
 For privacy-related questions about Expense Tracker, contact:
 
 **Developer:** Lotfi BOUCHERIT  
-**Email:** lotfi.boucherit@gmail.com
-
+**Email:** [lotfi.boucherit@gmail.com](mailto:lotfi.boucherit@gmail.com)
