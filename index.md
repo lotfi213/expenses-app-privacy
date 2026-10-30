@@ -14,7 +14,7 @@ You may enter or create information such as:
 
 - Expense amounts, dates, and descriptions
 - Receipt photos and additional receipt pages
-- Whether an expense is marked as submitted or reimbursed
+- Whether an expense is marked as submitted or not submitted
 - Your name, company name, reimbursement email address, preferred currency, and app language
 
 This information is used to provide the app’s expense tracking, receipt viewing, backup, restore, and reimbursement PDF features.
